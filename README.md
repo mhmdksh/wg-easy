@@ -1,6 +1,6 @@
 # WireGuard Easy
 NOTE: This is a fork of the awesome Project Found Here: https://github.com/wg-easy/wg-easy
-Original Credit Goes to: Check out projects by [WeeJeWel]([https://github.com/username](https://github.com/sponsors/WeeJeWel)).
+Original Credit Goes to [WeeJeWel]([https://github.com/username](https://github.com/sponsors/WeeJeWel))
 
 [![Build & Publish Docker Image to Docker Hub](https://github.com/WeeJeWel/wg-easy/actions/workflows/deploy.yml/badge.svg?branch=production)](https://github.com/WeeJeWel/wg-easy/actions/workflows/deploy.yml)
 [![Lint](https://github.com/WeeJeWel/wg-easy/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/WeeJeWel/wg-easy/actions/workflows/lint.yml)
@@ -10,10 +10,6 @@ Original Credit Goes to: Check out projects by [WeeJeWel]([https://github.com/us
 ![GitHub Stars](https://img.shields.io/github/stars/weejewel/wg-easy)
 
 You have found the easiest way to install & manage WireGuard on any Linux host!
-
-<p align="center">
-  <img src="./assets/screenshot.png" width="802" />
-</p>
 
 ## Features
 
@@ -75,7 +71,8 @@ The Web UI will now be available on `http://0.0.0.0:51821`.
 
 ### 3. Sponsor
 
-Are you enjoying this project? [Buy me a beer!](https://github.com/sponsors/WeeJeWel) 🍻
+Are you enjoying this project? [Buy WeeJeWel a beer!](https://github.com/sponsors/WeeJeWel) 🍻
+Maybe [Buy me a beer as well :)](https://github.com/sponsors/mhmdksh) 🍻
 
 ## Options
 
