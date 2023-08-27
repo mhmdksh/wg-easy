@@ -1,0 +1,8 @@
+## My CV
+https://{$WG_HOST} {
+    reverse_proxy wg-easy:51821
+}
+
+https://{$PIHOLE_HOST} {
+    reverse_proxy pihole:5353
+}
