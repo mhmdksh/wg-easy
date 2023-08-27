@@ -1,5 +1,5 @@
 # WireGuard Easy
-NOTE: This is a fork of the awesome Project Found Here: https://github.com/wg-easy/wg-easy  
+**NOTE**: This is a fork of the awesome Project Found Here: https://github.com/wg-easy/wg-easy  
 Original Credit Goes to [WeeJeWel](https://github.com/WeeJeWel)
 
 [![Build & Publish Docker Image to Docker Hub](https://github.com/WeeJeWel/wg-easy/actions/workflows/deploy.yml/badge.svg?branch=production)](https://github.com/WeeJeWel/wg-easy/actions/workflows/deploy.yml)
